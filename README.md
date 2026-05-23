@@ -57,5 +57,5 @@ The application follows a clean MVC-style architecture:
 - `util/`: Helper classes for database connections and password hashing.
 
 ## Code Click Connect Workshop: Building Java Apps from Scratch
-    Prof: Emylou R. Alinsod
+    Prof: Emylou G. Alinsod
     Speaker: Joshua Malabanan
